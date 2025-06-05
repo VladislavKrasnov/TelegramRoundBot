@@ -109,4 +109,4 @@ sudo systemctl stop TelegramRoundBot
 ---
 
 ## 📜 Лицензия
-[MIT License](LICENSE.txt)
+[MIT License](./LICENSE.txt)
